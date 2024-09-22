@@ -12,3 +12,4 @@ Luminar Organization is a group of peoples that develop and maintain Luminar Fra
 - [**Security**](https://github.com/luminar-organization/security)
 - [**Render Engine**](https://github.com/luminar-organization/render-engine)
 - [**Mailer**](https://github.com/luminar-organization/mailer)
+- [**Messenger**](https://github.com/luminar-organization/messenger)  
