@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.imgur.com/x4UbKjp.png" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://i.imgur.com/x4UbKjp.png" width="400"></a></p>
 
 ## Luminar Organization
 Luminar Organization is a group of peoples that develop and maintain Luminar Framework. Luminar Framework is a PHP Framework created to implement features from Symfony and Laravel and remove bugs, annoying solutions.
